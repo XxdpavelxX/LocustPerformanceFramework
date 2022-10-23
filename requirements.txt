@@ -1,0 +1,7 @@
+# Execution
+jsonschema==4.16.0
+locust==2.12.1
+
+# Testing
+pytest==6.2.5
+pylint==2.11.1
